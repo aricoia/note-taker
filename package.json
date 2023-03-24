@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myleen12/Hello-note.git"
+    "url": "git+https://github.com/aricoia/note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/myleen12/Hello-note/issues"
+    "url": "https://github.com/aricoia/note-taker/issues"
   },
-  "homepage": "https://github.com/myleen12/Hello-note#readme"
+  "homepage": "https://github.com/aricoia/note-taker"
 }
